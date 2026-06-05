@@ -81,7 +81,7 @@ When a helmet moves outside a user-defined safe zone, the system immediately sen
 
 ### 🚀 DEVELOPED BY GAUTHAM JAYESH 🚀
 
-**Flutter • Firebase • IoT Development**
+**Expo • Supabase • IoT Development**
 
 </div>
 
